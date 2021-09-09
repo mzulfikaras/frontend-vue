@@ -1,4 +1,4 @@
-# frontend-shop
+# frontend-vue
 
 ## Project setup
 ```
